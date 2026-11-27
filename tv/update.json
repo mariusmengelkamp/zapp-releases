@@ -1,7 +1,0 @@
-{
-  "versionCode": 61,
-  "versionName": "1.0.61",
-  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.61/zapp-tv-1.0.61.apk",
-  "sha256": "0dec467ac8d473acd51985d3feeead160a2cc608c73b330cd61e508d5b834e4c",
-  "notes": "Oeffentlich-rechtliche Sender ueber Dispatcharr-Redirect (HLS-Erkennung); vorinstallierte Quelle Dispatcharr"
-}
