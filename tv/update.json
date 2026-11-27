@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.59",
-  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.59/zapp-tv-1.0.59.apk",
-  "sha256": "0a4799ce087d090165aeee1f19e4d5685c88baed57d7a645efe6d7397ff2452a",
-  "notes": "Favoriten: Fokus bleibt nach Entfernen in der Liste; langes BACK fuehrt ueberall zurueck zum Player"
+  "versionCode": 61,
+  "versionName": "1.0.61",
+  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.61/zapp-tv-1.0.61.apk",
+  "sha256": "0dec467ac8d473acd51985d3feeead160a2cc608c73b330cd61e508d5b834e4c",
+  "notes": "Oeffentlich-rechtliche Sender ueber Dispatcharr-Redirect (HLS-Erkennung); vorinstallierte Quelle Dispatcharr"
 }
