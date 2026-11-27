@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.57",
-  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.57/zapp-tv-1.0.57.apk",
-  "sha256": "bb4643f661ed34413f1a076a3bce5f5f05d22517f2da166a8dfa5675176fcf36",
-  "notes": "Favoriten verschieben: Liste scrollt mit"
+  "versionCode": 59,
+  "versionName": "1.0.59",
+  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.59/zapp-tv-1.0.59.apk",
+  "sha256": "0a4799ce087d090165aeee1f19e4d5685c88baed57d7a645efe6d7397ff2452a",
+  "notes": "Favoriten: Fokus bleibt nach Entfernen in der Liste; langes BACK fuehrt ueberall zurueck zum Player"
 }
