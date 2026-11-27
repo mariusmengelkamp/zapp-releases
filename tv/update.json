@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.56",
-  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.56/zapp-tv-1.0.56.apk",
-  "sha256": "66c095eca54c3dd286254c3de4237dc77bab7ec533545a11707e5239139f39b5",
-  "notes": "Free-TV ist jetzt als erste Quelle vorinstalliert (löschbar)"
+  "versionCode": 57,
+  "versionName": "1.0.57",
+  "apk": "https://github.com/mariusmengelkamp/zapp-releases/releases/download/tv-v1.0.57/zapp-tv-1.0.57.apk",
+  "sha256": "bb4643f661ed34413f1a076a3bce5f5f05d22517f2da166a8dfa5675176fcf36",
+  "notes": "Favoriten verschieben: Liste scrollt mit"
 }
